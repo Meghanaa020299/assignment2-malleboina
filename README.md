@@ -10,3 +10,9 @@ The museum has a collection of several objects of historical and cultural import
 3. From Tawi bridge,go straight for 1 mile and take a right there.
 4. After 0.5 miles on this road, you will come across Shree Ranbireshwar Temple.
 5. Take a left there and go straight for 1.5 miles on this road, the destination will be on the left.
+
+* Tawi Bridge
+* Shree Ranbireshwar Temple
+* City Chowk Park
+* Rani Chadki Mahal
+
