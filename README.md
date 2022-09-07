@@ -32,3 +32,31 @@ The below table gives a short description about the famous places to visit in th
 > To produce a mighty book, you must choose a mighty theme. *Herman Melville*
 
 >If you have no critics, you’ll likely have no success. *Malcolm*
+***
+# Code Fencing
+>How to change add to cart button text for variable products?
+<https://stackoverflow.com/questions/73627989/how-to-change-add-to-cart-button-text-for-variable-products>
+~~~
+<h3>All Post Meta</h3>
+
+<?php 
+
+  // Get all the data 
+  $getPostCustom = get_post_custom(); 
+
+    foreach($getPostCustom as $name=>$value) {
+
+        echo "<strong>" . $name . "</strong>"."  =>  ";
+
+        foreach ($value as $nameAr=>$valueAr) {
+                echo "<br />";
+                echo $nameAr."  =>  ";
+                echo var_dump($valueAr);
+        }
+
+        echo "<br /><br />";
+
+    }
+?>
+~~~
+<https://css-tricks.com/snippets/wordpress/dump-all-custom-fields/>
