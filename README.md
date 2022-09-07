@@ -17,3 +17,13 @@ The museum has a collection of several objects of historical and cultural import
 * Rani Chadki Mahal
 
 [about me](AboutMe.md)
+***
+# Must visit cities
+The below table gives a short description about the famous places to visit in the particular cities. These cities are always filled with tourists throughout the year.
+
+|City| Location to visit|time to spend|
+|---:|---:|---:|
+|Agra|Taj Mahal|2 hours|
+|Chennai|Marina Beach|3 hours|
+|Mysore|Mysore Palace|4 hours|
+|Delhi|Red Fort|2 hours|
