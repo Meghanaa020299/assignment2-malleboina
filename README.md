@@ -27,3 +27,8 @@ The below table gives a short description about the famous places to visit in th
 |Chennai|Marina Beach|3 hours|
 |Mysore|Mysore Palace|4 hours|
 |Delhi|Red Fort|2 hours|
+***
+# Motivational Quotes
+> To produce a mighty book, you must choose a mighty theme. *Herman Melville*
+
+>If you have no critics, you’ll likely have no success. *Malcolm*
