@@ -35,6 +35,7 @@ The below table gives a short description about the famous places to visit in th
 ***
 # Code Fencing
 >How to change add to cart button text for variable products?
+
 <https://stackoverflow.com/questions/73627989/how-to-change-add-to-cart-button-text-for-variable-products>
 ~~~
 <h3>All Post Meta</h3>
