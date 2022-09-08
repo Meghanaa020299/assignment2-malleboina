@@ -37,7 +37,7 @@ The below table gives a short description about the famous places to visit in th
 >How to change add to cart button text for variable products?
 
 <https://stackoverflow.com/questions/73627989/how-to-change-add-to-cart-button-text-for-variable-products>
-~~~
+```
 <h3>All Post Meta</h3>
 
 <?php 
@@ -59,5 +59,5 @@ The below table gives a short description about the famous places to visit in th
 
     }
 ?>
-~~~
+```
 <https://css-tricks.com/snippets/wordpress/dump-all-custom-fields/>
